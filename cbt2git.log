@@ -1,0 +1,6 @@
+2023-08-06 02:14:14.982601 - Initialized conversion of CBT210
+2023-08-06 02:14:15.001999 - Received CBT.V505.FILE210.PDS from FILE210.XMI 
+2023-08-06 02:14:15.004308 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE210.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:14:15.005593 - Found @FILE210.txt (text/plain) in CBT.V505.FILE210.PDS, moved to PDS/@FILE210
+2023-08-06 02:14:15.006612 - Found @FILE211.txt (text/plain) in CBT.V505.FILE210.PDS, moved to PDS/@FILE211
+2023-08-06 02:14:15.006732 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
